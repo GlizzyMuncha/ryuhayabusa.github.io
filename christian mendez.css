@@ -1,0 +1,13 @@
+.name {
+    font-family: Times;
+    color:gray;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: blue;
+    margin: 0px;
+}
+body{
+    background-color: dodgerblue;
+    margin: 0px;
+}
